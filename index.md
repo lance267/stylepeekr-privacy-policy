@@ -33,7 +33,7 @@ In future versions, StylePeekr may collect anonymous, non-identifying usage stat
 
 ## Contact Information
 
-If you have any questions about this privacy policy or StylePeekr's data practices, please contact us at [Your Contact Email].
+If you have any questions about this privacy policy or StylePeekr's data practices, please contact us at [stylepeekr@gmail.com].
 
 ## Changes to This Policy
 
